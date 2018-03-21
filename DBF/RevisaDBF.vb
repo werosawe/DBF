@@ -37,7 +37,7 @@ Public Class RevisaDBF
             End If
         Next
 
-        MsgBox("EL PROCESO HA CULMINADO", MsgBoxStyle.Information, "REVISION DE DBF")
+        MsgBox("EL PROCESO HA CULMINADOxx", MsgBoxStyle.Information, "REVISION DE DBF")
     End Sub
 
     Private Sub Verifica_DBF(ByVal strFileNameOnly As String)

@@ -19,3 +19,10 @@ C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\Debug\ResolveAssemblyRe
 C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\Debug\Utilitario.dll
 C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\Debug\Utilitario.xml
 C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\Debug\Utilitario.pdb
+C:\Desarrollo\VS2010\DBF\Utilitario\bin\Utilitario.dll
+C:\Desarrollo\VS2010\DBF\Utilitario\bin\Utilitario.pdb
+C:\Desarrollo\VS2010\DBF\Utilitario\bin\Utilitario.xml
+C:\Desarrollo\VS2010\DBF\Utilitario\obj\Debug\Utilitario.vbprojResolveAssemblyReference.cache
+C:\Desarrollo\VS2010\DBF\Utilitario\obj\Debug\Utilitario.dll
+C:\Desarrollo\VS2010\DBF\Utilitario\obj\Debug\Utilitario.xml
+C:\Desarrollo\VS2010\DBF\Utilitario\obj\Debug\Utilitario.pdb
