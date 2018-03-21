@@ -1,0 +1,21 @@
+D:\x\Carga_PAdron_Afiliados\Utilitario\bin\Utilitario.dll
+D:\x\Carga_PAdron_Afiliados\Utilitario\bin\Utilitario.pdb
+D:\x\Carga_PAdron_Afiliados\Utilitario\bin\Utilitario.xml
+D:\x\Carga_PAdron_Afiliados\Utilitario\obj\Debug\ResolveAssemblyReference.cache
+D:\x\Carga_PAdron_Afiliados\Utilitario\obj\Debug\Utilitario.dll
+D:\x\Carga_PAdron_Afiliados\Utilitario\obj\Debug\Utilitario.xml
+D:\x\Carga_PAdron_Afiliados\Utilitario\obj\Debug\Utilitario.pdb
+C:\VS2008\SROP\Carga_PAdron_Afiliados\Utilitario\bin\Utilitario.dll
+C:\VS2008\SROP\Carga_PAdron_Afiliados\Utilitario\bin\Utilitario.pdb
+C:\VS2008\SROP\Carga_PAdron_Afiliados\Utilitario\bin\Utilitario.xml
+C:\VS2008\SROP\Carga_PAdron_Afiliados\Utilitario\obj\Debug\ResolveAssemblyReference.cache
+C:\VS2008\SROP\Carga_PAdron_Afiliados\Utilitario\obj\Debug\Utilitario.dll
+C:\VS2008\SROP\Carga_PAdron_Afiliados\Utilitario\obj\Debug\Utilitario.xml
+C:\VS2008\SROP\Carga_PAdron_Afiliados\Utilitario\obj\Debug\Utilitario.pdb
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\bin\Utilitario.dll
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\bin\Utilitario.pdb
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\bin\Utilitario.xml
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\Debug\ResolveAssemblyReference.cache
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\Debug\Utilitario.dll
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\Debug\Utilitario.xml
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\Debug\Utilitario.pdb

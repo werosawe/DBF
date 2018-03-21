@@ -1,0 +1,14 @@
+C:\VS2008\SROP\Carga_PAdron_Afiliados\Utilitario\obj\Release\ResolveAssemblyReference.cache
+C:\VS2008\SROP\Carga_PAdron_Afiliados\Utilitario\obj\Release\Utilitario.dll
+C:\VS2008\SROP\Carga_PAdron_Afiliados\Utilitario\bin\Utilitario.dll
+C:\VS2008\SROP\Carga_PAdron_Afiliados\Utilitario\bin\Utilitario.xml
+C:\VS2008\SROP\Carga_PAdron_Afiliados\Utilitario\obj\Release\Utilitario.xml
+C:\VS2010\SROP\Carga_PAdron_Afiliados\Utilitario\bin\Utilitario.dll
+C:\VS2010\SROP\Carga_PAdron_Afiliados\Utilitario\bin\Utilitario.xml
+C:\VS2010\SROP\Carga_PAdron_Afiliados\Utilitario\obj\Release\Utilitario.dll
+C:\VS2010\SROP\Carga_PAdron_Afiliados\Utilitario\obj\Release\Utilitario.xml
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\bin\Utilitario.dll
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\bin\Utilitario.xml
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\Release\Utilitario.dll
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\Release\Utilitario.xml
+C:\VS2010\SROP\Carga_Padron_Afiliados\Utilitario\bin\Oracle.DataAccess.dll

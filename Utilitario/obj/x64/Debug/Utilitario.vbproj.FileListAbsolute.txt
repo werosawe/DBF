@@ -1,0 +1,6 @@
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\bin\x64\Debug\Utilitario.dll
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\bin\x64\Debug\Utilitario.pdb
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\bin\x64\Debug\Utilitario.xml
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\x64\Debug\Utilitario.dll
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\x64\Debug\Utilitario.xml
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\x64\Debug\Utilitario.pdb

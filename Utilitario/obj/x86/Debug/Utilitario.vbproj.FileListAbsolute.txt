@@ -1,0 +1,25 @@
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\bin\x86\Debug\Utilitario.dll
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\bin\x86\Debug\Utilitario.pdb
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\bin\x86\Debug\Utilitario.xml
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\x86\Debug\Utilitario.dll
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\x86\Debug\Utilitario.xml
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\x86\Debug\Utilitario.pdb
+C:\VS2010\SROP\Carga_Padron_Afiliados\Utilitario\bin\x86\Debug\Utilitario.dll
+C:\VS2010\SROP\Carga_Padron_Afiliados\Utilitario\bin\x86\Debug\Utilitario.pdb
+C:\VS2010\SROP\Carga_Padron_Afiliados\Utilitario\bin\x86\Debug\Utilitario.xml
+C:\VS2010\SROP\Carga_Padron_Afiliados\Utilitario\obj\x86\Debug\Utilitario.dll
+C:\VS2010\SROP\Carga_Padron_Afiliados\Utilitario\obj\x86\Debug\Utilitario.xml
+C:\VS2010\SROP\Carga_Padron_Afiliados\Utilitario\obj\x86\Debug\Utilitario.pdb
+C:\VS2010\DBF\Utilitario\bin\x86\Debug\Utilitario.dll
+C:\VS2010\DBF\Utilitario\bin\x86\Debug\Utilitario.pdb
+C:\VS2010\DBF\Utilitario\bin\x86\Debug\Utilitario.xml
+C:\VS2010\DBF\Utilitario\obj\x86\Debug\Utilitario.dll
+C:\VS2010\DBF\Utilitario\obj\x86\Debug\Utilitario.xml
+C:\VS2010\DBF\Utilitario\obj\x86\Debug\Utilitario.pdb
+C:\Desarrollo\VS2010\DBF\Utilitario\bin\x86\Debug\Utilitario.dll
+C:\Desarrollo\VS2010\DBF\Utilitario\bin\x86\Debug\Utilitario.pdb
+C:\Desarrollo\VS2010\DBF\Utilitario\bin\x86\Debug\Utilitario.xml
+C:\Desarrollo\VS2010\DBF\Utilitario\obj\x86\Debug\Utilitario.vbprojResolveAssemblyReference.cache
+C:\Desarrollo\VS2010\DBF\Utilitario\obj\x86\Debug\Utilitario.dll
+C:\Desarrollo\VS2010\DBF\Utilitario\obj\x86\Debug\Utilitario.xml
+C:\Desarrollo\VS2010\DBF\Utilitario\obj\x86\Debug\Utilitario.pdb

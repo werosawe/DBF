@@ -1,0 +1,8 @@
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\bin\x86\Release\Utilitario.dll
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\bin\x86\Release\Utilitario.xml
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\x86\Release\Utilitario.dll
+C:\VS2010\SROP fin\Carga_PAdron_Afiliados\Utilitario\obj\x86\Release\Utilitario.xml
+C:\VS2010\SROP\Carga_Padron_Afiliados\Utilitario\bin\x86\Release\Utilitario.dll
+C:\VS2010\SROP\Carga_Padron_Afiliados\Utilitario\bin\x86\Release\Utilitario.xml
+C:\VS2010\SROP\Carga_Padron_Afiliados\Utilitario\obj\x86\Release\Utilitario.dll
+C:\VS2010\SROP\Carga_Padron_Afiliados\Utilitario\obj\x86\Release\Utilitario.xml
